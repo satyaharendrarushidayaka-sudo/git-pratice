@@ -1,1 +1,3 @@
 print('hello madam')
+print(" hello lasya")
+print("huhohhohgerhor")
