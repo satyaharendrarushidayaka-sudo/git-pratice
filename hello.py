@@ -1,2 +1,4 @@
-print("Hello Git")
-print("i'm learning git")
+print('2342343242')
+3+33+333
+545435+32325
+print("thi may cannt load")
